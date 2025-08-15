@@ -4,8 +4,11 @@ Lesson101 for freshman to learn large langauge models. Organizing the learning m
 
 ## Week1
 1. organization
-| Content                    | book章节 | presenter | Illustrator | Implementer | Summarizer |
-| -------------------------- | -------- | --------- | ----------- | ----------- | ---------- |
-| Tokenization, Architecture | Ch.1-2   | wzy       | zyx         | zla         | zxy        |
+
+| Content | book章节 | presenter | Illustrator | Implementer | Summarizer |
+| --------| -------- | --------- | ----------- | ----------- | ---------- |
+| Tokenization, Architecture | Ch.1-2   | wzy  | zyx   | zla | zxy      |
+---
+
 
 2. Discussion Summarization
